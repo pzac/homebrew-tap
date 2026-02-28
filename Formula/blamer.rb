@@ -1,8 +1,8 @@
 class Blamer < Formula
     desc "CLI tool to investigate a file history via git blame"
     homepage "https://github.com/pzac/blamer"
-    url "https://github.com/pzac/blamer/releases/download/v0.1.0/blamer-0.1.0.tar.gz"
-    sha256 "b694db1f11e4a418a11bb5beaba9266242799ca279000c7c414d4aa4e11e660b"
+    url "https://github.com/pzac/blamer/releases/download/v0.1.1/blamer-0.1.1.tar.gz"
+    sha256 "22abfd294a3767236f8b9c3695799a48cfb23b3daf7e99b8e8e60dbb5a33c250"
 
     depends_on "rust" => :build
 
